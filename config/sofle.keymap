@@ -93,7 +93,7 @@
 &trans &kp DE_BSLH &kp DE_SLASH &kp DE_LBRC &kp DE_RBRC &kp DE_STAR
 		&kp DE_QMARK &kp DE_LPAR &kp DE_RPAR &kp DE_MINUS &kp DE_COLON &trans
 &trans &kp DE_HASH &kp DE_DOLLAR &kp DE_PIPE  &kp DE_TILDE &kp DE_GRAVE &trans
-		&trans &kp DE_PLUS &kp DE_PERCENT &kp  DE_DGT &kp  DE_SQT &kp DE_SEMI &trans
+		&trans &kp DE_PLUS &kp DE_PERCENT &kp  DE_DQT &kp  DE_SQT &kp DE_SEMI &trans
                     &trans    &trans      &trans    &trans     &trans &trans  &trans    &trans   &trans    &trans
             >;
 
