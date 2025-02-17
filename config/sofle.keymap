@@ -39,11 +39,16 @@
 // | SHIFT |  Z  |  X  |  C   |  V   |  B   |  MUTE  |  |       |  N   |  M    |  ,    |  .   |   /   | SHIFT |
 //               | GUI | ALT  | CTRL | LOWER|  ENTER |  | SPACE | RAISE| CTRL  | ALT   | GUI  |
             bindings = <
-&kp ESC &kp N1 &kp N2   &kp N3   &kp N4    &kp N5																								&kp N6 &kp N7    &kp N8    &kp N9   &kp N0   &kp DE_SHARP_S
-&kp TAB		&kp DE_K	&kp DE_DOT  &kp DE_O  &kp DE_COMM		&kp DE_Y																&kp DE_P  &kp DE_C	&kp DE_L		&kp DE_M    &kp DE_F    &kp DE_A_UMLAUT
-&kp LEFT_SHIFT   &kp DE_H  &kp DE_A    &kp DE_E   &kp DE_I     &kp DE_I													&kp DE_D  &kp DE_T	&kp DE_R     &kp DE_N    &kp DE_S &kp BSPC
-&kp LCTL	&kp DE_X  &kp DE_Q    &kp DE_B    &kp DE_U_UMLAUT		&kp DE_O_UMLAUT		&kp C_MUTE			&none		&kp DE_J  &kp DE_G		&kp DE_W	&kp DE_V		&kp DE_Z	&kp RSHFT
-&kp LCTL  &kp LALT	&kp LGUI &mo NEVI  &kp SPACE																								&kp RETURN		&mo NAVI  &mo PROG	&kp RGUI  &kp RCTL
+&kp ESC &kp N1 &kp N2   &kp N3   &kp N4    &kp N5                           
+		&kp N6 &kp N7    &kp N8    &kp N9   &kp N0   &kp DE_SHARP_S
+&kp TAB		&kp DE_K	&kp DE_DOT  &kp DE_O  &kp DE_COMMA		&kp DE_Y
+		&kp DE_P  &kp DE_C	&kp DE_L		&kp DE_M    &kp DE_F    &kp DE_A_UMLAUT
+&kp LEFT_SHIFT   &kp DE_H  &kp DE_A    &kp DE_E   &kp DE_I     &kp DE_I                            
+		&kp DE_D  &kp DE_T	&kp DE_R     &kp DE_N    &kp DE_S &kp BSPC
+&kp LCTL	&kp DE_X  &kp DE_Q    &kp DE_B    &kp DE_U_UMLAUT		&kp DE_O_UMLAUT		&kp C_MUTE 
+		&none		&kp DE_J  &kp DE_G		&kp DE_W	&kp DE_V		&kp DE_Z	&kp RSHFT
+&kp LCTL  &kp LALT	&kp LGUI &mo NEVI  &kp SPACE    
+		&kp RETURN		&mo NAVI  &mo PROG	&kp RGUI  &kp RCTL
             >;
 
             sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN &inc_dec_kp PG_UP PG_DN>;
