@@ -68,7 +68,7 @@
 		&kp DE_COMMA &kp KP_N7    &kp KP_N8   &kp KP_N9    &kp KP_NUM  &trans
 &trans     &kp HOME     &kp LEFT    &kp DOWN    &kp RIGHT       &kp END                      
 		&kp DE_DOT &kp KP_N4  &kp KP_N5 &kp KP_N6 &none &trans
-&trans     &kp K_UNDO   &kp K_CUT    &kp K_COPY   &kp K_PASTE  &trans        
+&trans     &kp K_UNDO   &kp K_CUT    &kp K_COPY   &kp K_PASTE  &trans  &trans       
 		&trans  &kp KP_N0  &kp KP_N1    &kp KP_N2    &kp KP_N3   &none  &trans
                         &trans       &trans       &trans       &trans        &trans  &trans  &trans    &trans    &trans   &trans
             >;
