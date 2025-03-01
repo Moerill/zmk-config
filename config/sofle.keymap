@@ -47,7 +47,7 @@
 		&kp DE_D  &kp DE_T	&kp DE_R     &kp DE_N    &kp DE_S &kp BSPC
 &kp LCTL	&kp DE_X  &kp DE_Q    &kp DE_B    &kp DE_U_UMLAUT		&kp DE_O_UMLAUT		&kp C_MUTE 
 		&none		&kp DE_J  &kp DE_G		&kp DE_W	&kp DE_V		&kp DE_Z	&kp RSHFT
-&kp LCTL  &kp LALT	&kp LGUI &mo NAVI  &kp SPACE    
+&mo PROG  &kp LALT	&kp LGUI &mo NAVI  &kp SPACE    
 		&kp RETURN		&mo NAVI  &mo PROG	&kp RGUI  &kp RCTL
             >;
 
